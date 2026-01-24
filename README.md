@@ -6,7 +6,7 @@
 - [x] [Exercício 1: olá, mundo!](/exercicios_mundo1/ex001.py)
 - [x] [Exercício 2: responder ao usuário de modo personalizado](/exercicios_mundo1/ex002.py)
 - [x] [Exercício 3: somar dois números](/exercicios_mundo1/ex003.py)
-- [ ] Exercício 4: dissecar uma variável
+- [x] [Exercício 4: dissecar uma variável](/exercicios_mundo1/ex004.py)
 - [ ] Exercício 5: antecessor e sucessor
 - [ ] Exercício 6: obter dobro, triplo, raiz quadrada
 - [ ] Exercício 7: obter média aritmética

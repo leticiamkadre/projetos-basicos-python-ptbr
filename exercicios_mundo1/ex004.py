@@ -1,0 +1,10 @@
+# Exercício 4: escrever um código que leia uma variável var e forneça informações sobre ela (tipo primitivo e outros detalhes).
+var = input('Digite qualquer coisa:')
+print(f'O tipo primitivo dessa variável é {type(var)}')
+print(f'Só possui espaços? {var.isspace()}')
+print(f'É numérico? {var.isnumeric()}')
+print(f'É alfabético? {var.isalpha()}')
+print(f'É alfanumérico? {var.isalnum()}')
+print(f'Está em maiúsculas? {var.islower()}')
+print(f'Está em minúsculas? {var.isupper()}')
+print(f'Está capitalizada? {var.istitle()}')
