@@ -3,9 +3,9 @@
 > Repositório de códigos utilizados em exercícios e projetos práticos do curso de _**Python básico**_ da plataforma _**Curso em Vídeo**_, criada pelo [Prof. Guanabara](https://github.com/gustavoguanabara).
 ---
 #### Tratamento de dados e operações numéricas
-- [ ] Exercício 1: olá, mundo!
-- [ ] Exercício 2: responder ao usuário de modo personalizado
-- [ ] Exercício 3: somar dois números
+- [x] Exercício 1: olá, mundo!
+- [x] Exercício 2: responder ao usuário de modo personalizado
+- [x] Exercício 3: somar dois números
 - [ ] Exercício 4: dissecar uma variável
 - [ ] Exercício 5: antecessor e sucessor
 - [ ] Exercício 6: obter dobro, triplo, raiz quadrada
