@@ -1,4 +1,4 @@
-### Projetos Básicos em Python :snake:
+### Projetos Básicos em Python (PT-BR) :snake:
 
 > Repositório de códigos utilizados em exercícios e projetos práticos do curso de _**Python básico**_ da plataforma _**Curso em Vídeo**_, criada pelo [Prof. Guanabara](https://github.com/gustavoguanabara).
 ---
