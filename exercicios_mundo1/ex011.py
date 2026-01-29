@@ -1,6 +1,6 @@
 # Exercício 11: faça um programa que leia a largura e altura de uma parede em metros. Calcule a área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 m². Bônus: cálculo do total de dinheiro necessário, sabendo que o preço é R$4.89. 
-largura = float(input('Qual a largura da parede, em metros?'))
-altura = float(input('Qual a altura da parede, em metros?'))
+largura = float(input('Qual a largura da parede, em metros? '))
+altura = float(input('Qual a altura da parede, em metros? '))
 área = largura*altura
 rendimento_tinta = 2
 preço_tinta = 4.89
