@@ -1,6 +1,6 @@
 ### Projetos Básicos em Python (PT-BR) :snake:
 
-> Repositório de códigos utilizados em exercícios e projetos práticos do curso de _**Python básico**_ da plataforma _**Curso em Vídeo**_, criada pelo [Prof. Guanabara](https://github.com/gustavoguanabara).
+> Repositório de códigos utilizados em exercícios e projetos práticos do curso de _**Python 3 - Mundo I**_ da plataforma _**Curso em Vídeo**_, criada pelo [Prof. Guanabara](https://github.com/gustavoguanabara).
 ---
 #### Tratamento de dados e operações numéricas
 - [x] [Exercício 1: olá, mundo!](/exercicios_mundo1/ex001.py)
