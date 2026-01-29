@@ -2,4 +2,4 @@
 P1 = float(input('Qual sua nota na P1?'))
 P2 = float(input('Qual sua nota na P2?'))
 média = (P1+P2)/2
-print(f'Sua média será {média}')
+print(f'Sua média será {média:.1f}')
